@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://saudbako.github.io/csb-xsry90/static/js/main.c3817e93.chunk.js",
+    "main.js.map": "https://saudbako.github.io/csb-xsry90/static/js/main.c3817e93.chunk.js.map",
+    "runtime-main.js": "https://saudbako.github.io/csb-xsry90/static/js/runtime-main.ec2d600e.js",
+    "runtime-main.js.map": "https://saudbako.github.io/csb-xsry90/static/js/runtime-main.ec2d600e.js.map",
+    "static/js/2.4dc454d8.chunk.js": "https://saudbako.github.io/csb-xsry90/static/js/2.4dc454d8.chunk.js",
+    "static/js/2.4dc454d8.chunk.js.map": "https://saudbako.github.io/csb-xsry90/static/js/2.4dc454d8.chunk.js.map",
+    "index.html": "https://saudbako.github.io/csb-xsry90/index.html",
+    "precache-manifest.8fb61e4a9c4a70459538dcf87ad764fe.js": "https://saudbako.github.io/csb-xsry90/precache-manifest.8fb61e4a9c4a70459538dcf87ad764fe.js",
+    "service-worker.js": "https://saudbako.github.io/csb-xsry90/service-worker.js",
+    "static/js/2.4dc454d8.chunk.js.LICENSE.txt": "https://saudbako.github.io/csb-xsry90/static/js/2.4dc454d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec2d600e.js",
+    "static/js/2.4dc454d8.chunk.js",
+    "static/js/main.c3817e93.chunk.js"
+  ]
+}
