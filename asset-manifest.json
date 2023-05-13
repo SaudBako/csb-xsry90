@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "https://saudbako.github.io/csb-xsry90/static/css/main.641524d4.chunk.css",
-    "main.js": "https://saudbako.github.io/csb-xsry90/static/js/main.52dc9e27.chunk.js",
-    "main.js.map": "https://saudbako.github.io/csb-xsry90/static/js/main.52dc9e27.chunk.js.map",
+    "main.js": "https://saudbako.github.io/csb-xsry90/static/js/main.ab836cf7.chunk.js",
+    "main.js.map": "https://saudbako.github.io/csb-xsry90/static/js/main.ab836cf7.chunk.js.map",
     "runtime-main.js": "https://saudbako.github.io/csb-xsry90/static/js/runtime-main.ec2d600e.js",
     "runtime-main.js.map": "https://saudbako.github.io/csb-xsry90/static/js/runtime-main.ec2d600e.js.map",
-    "static/js/2.fdc0264b.chunk.js": "https://saudbako.github.io/csb-xsry90/static/js/2.fdc0264b.chunk.js",
-    "static/js/2.fdc0264b.chunk.js.map": "https://saudbako.github.io/csb-xsry90/static/js/2.fdc0264b.chunk.js.map",
+    "static/js/2.eb4e1005.chunk.js": "https://saudbako.github.io/csb-xsry90/static/js/2.eb4e1005.chunk.js",
+    "static/js/2.eb4e1005.chunk.js.map": "https://saudbako.github.io/csb-xsry90/static/js/2.eb4e1005.chunk.js.map",
     "index.html": "https://saudbako.github.io/csb-xsry90/index.html",
-    "precache-manifest.fd6b1febb41e9a6edff23e40fd6a6861.js": "https://saudbako.github.io/csb-xsry90/precache-manifest.fd6b1febb41e9a6edff23e40fd6a6861.js",
+    "precache-manifest.455815ecb6e76009ecaf5b9b5f7deee5.js": "https://saudbako.github.io/csb-xsry90/precache-manifest.455815ecb6e76009ecaf5b9b5f7deee5.js",
     "service-worker.js": "https://saudbako.github.io/csb-xsry90/service-worker.js",
     "static/css/main.641524d4.chunk.css.map": "https://saudbako.github.io/csb-xsry90/static/css/main.641524d4.chunk.css.map",
-    "static/js/2.fdc0264b.chunk.js.LICENSE.txt": "https://saudbako.github.io/csb-xsry90/static/js/2.fdc0264b.chunk.js.LICENSE.txt",
-    "static/js/main.52dc9e27.chunk.js.LICENSE.txt": "https://saudbako.github.io/csb-xsry90/static/js/main.52dc9e27.chunk.js.LICENSE.txt"
+    "static/js/2.eb4e1005.chunk.js.LICENSE.txt": "https://saudbako.github.io/csb-xsry90/static/js/2.eb4e1005.chunk.js.LICENSE.txt",
+    "static/js/main.ab836cf7.chunk.js.LICENSE.txt": "https://saudbako.github.io/csb-xsry90/static/js/main.ab836cf7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ec2d600e.js",
-    "static/js/2.fdc0264b.chunk.js",
+    "static/js/2.eb4e1005.chunk.js",
     "static/css/main.641524d4.chunk.css",
-    "static/js/main.52dc9e27.chunk.js"
+    "static/js/main.ab836cf7.chunk.js"
   ]
 }
